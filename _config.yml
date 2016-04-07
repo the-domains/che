@@ -1,0 +1,14 @@
+layout_spectrum: 0.658516
+typography_spectrum: 0.8290571
+color:
+  lightness: 0.3040937
+  brandStrength: 0.9088479
+  saturation: 0.9001256
+  rhythmicContrast: 0.1403422
+  brandColors:
+    - '#F09A0C'
+    - '#E2D6E1'
+    - '#39771E'
+    - '#91BC30'
+    - '#420C06'
+name: che
